@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
+body {
+    background-image: url("https://imgs.search.brave.com/I-sHw7v8Iog80lM6PLvGwjoXppeL7gt85Yc5ZCB9mq8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by92/aWV3LXNsb3QtbWFj/aGluZXMtY2FzaW5v/XzIzLTIxNTEwMDc4/MjUuanBnP3NlbXQ9/YWlzX2l0ZW1zX2Jv/b3N0ZWQmdz03NDA");
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.carta {
     background: white;
 }
+;
